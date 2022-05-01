@@ -1187,10 +1187,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@kangc/v-md-editor@^1.7.7":
-  version "1.7.9"
-  resolved "https://registry.yarnpkg.com/@kangc/v-md-editor/-/v-md-editor-1.7.9.tgz#b80ad1e5e428b130358c7ac9e3dad21588e8e30c"
-  integrity sha512-/gc0e16rcI3WqmfgbWmO/wBQaqcBqAB8to9R5+LyLdQEVYHWAOS+al3oYvzseCLFgvia1ZUhHzyiITRJ63x6SA==
+"@kangc/v-md-editor@^1.7.11":
+  version "1.7.11"
+  resolved "https://registry.yarnpkg.com/@kangc/v-md-editor/-/v-md-editor-1.7.11.tgz#83d950c687bcd2a7414a0308e2867ca55ba752d2"
+  integrity sha512-398+4uKqc2Ybog0kktTuLDkBObN8/2QB0OsIjOgUURojy9RY1fX2PeJ5OXL5zWMf3y8dF98Ho/x9AAUY6L6YZA==
   dependencies:
     "@vuepress/markdown" "^1.8.2"
     "@vuepress/shared-utils" "^1.8.2"
@@ -12696,11 +12696,6 @@ vue-infinite-loading@^2.4.5:
   version "2.4.5"
   resolved "https://registry.yarnpkg.com/vue-infinite-loading/-/vue-infinite-loading-2.4.5.tgz#cc20fd40af7f20188006443c99b60470cf1de1b3"
   integrity sha512-xhq95Mxun060bRnsOoLE2Be6BR7jYwuC89kDe18+GmCLVrRA/dU0jrGb12Xu6NjmKs+iTW0AA6saSEmEW4cR7g==
-
-vue-jstree@^2.1.6:
-  version "2.1.6"
-  resolved "https://registry.yarnpkg.com/vue-jstree/-/vue-jstree-2.1.6.tgz#44827ad72953ed77da6590ce4e8f37f7787f8653"
-  integrity sha512-vtUmhLbfE2JvcnYNRXauJPkNJSRO/f9BTsbxV+ESXP/mMQPVUIYI4EkSHKSEOxVDHTU7SfLp/AxplmaAl6ctcg==
 
 "vue-loader-v16@npm:vue-loader@^16.1.0":
   version "16.8.3"
